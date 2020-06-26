@@ -11,20 +11,20 @@ The course’s scope and material are identical to CS Introduction to Programmin
 
 ## Java Programming I
     
-    - Part 1:
-	    1. Getting started with programming
-	    2. Printing
-	    3. Reading input
-	    4. Variables
-	    5. Calculating with numbers
-	    6. Conditional statements and conditional operation
-		 
-    - Part 2:
+	- Part 1:
+		1. Getting started with programming
+		2. Printing
+		3. Reading input
+		4. Variables
+		5. Calculating with numbers
+		6. Conditional statements and conditional operation
+
+	- Part 2:
 		1. Recurring problems and patterns to solve them
 		2. Repeating functionality
 		3. More loops
 		4. Methods and dividing the program into smaller parts
-	 
+
 	- Part 3
 		1. Discovering errors
 		2. Lists
@@ -54,18 +54,18 @@ The course’s scope and material are identical to CS Introduction to Programmin
 
 ## Java Programming II
 
-	 - Part 8:
+	- Part 8:
 		1. Short recap
 		2. Hash Map
 		3. Similarity of objects
 		4. Grouping data using hash maps
 		5. Fast data fetching and grouping information
-		 
-    - Part 9:
+
+	- Part 9:
 		1. Class inheritance
 		2. Interfaces
 		3. Object polymorphism
-	 
+
 	- Part 10
 		1. Handling collections as streams
 		2. The Comparable Interface
@@ -97,8 +97,6 @@ The course’s scope and material are identical to CS Introduction to Programmin
 		4. Maven and third-party libraries
 		5. Conclusion
 
-	    
-
 ### About the course
 ----
-* [Java Programming I + II]([https://java-programming.mooc.fi/](https://java-programming.mooc.fi/))  
+[Java Programming I + II](https://java-programming.mooc.fi/](https://java-programming.mooc.fi/))  
